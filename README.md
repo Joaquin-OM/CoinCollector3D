@@ -56,3 +56,10 @@ Assets/
 
 - **W, A, S, D** o **Fletxes de direcció**: Moviment de l'esfera del jugador pels eixos `Horizontal` (X) i `Vertical` (Z).
 - **Botó Play (`MenuPrincipal.unity`)**: Carrega l'escena `Level1.unity`.
+
+---
+
+## 5. Captura de pantalla del projecte en Unity
+
+![Level1 en Unity](Level1_Gameplay.png)
+
